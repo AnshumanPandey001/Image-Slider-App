@@ -5,7 +5,7 @@ Welcome to the Image Slider Mini Project! This project is a simple JavaScript ap
 
 Introduction:
 
-This mini project is designed to demonstrate the basic concepts of web development, specifically focusing on JavaScript functionalities for creating an interactive image slider. Whether you are a beginner looking to understand core concepts or an experienced developer looking for a quick example, this project is a great learning resource.
+This mini project is designed to demonstrate the basic concepts of web development, specifically focusing on JavaScript functionalities for creating an interactive image slider. 
 
 Features:
 
